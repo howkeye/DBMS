@@ -1,0 +1,74 @@
+----------------------Oracle JDBC Connection Testing-------------------------
+Oracle JDBC Driver Registered!
+You made it, take control your database now!
+-------------------------------Question-(1)----------------------------------
+Enter Employee-id: 130
+
+PU_CLERK
+	Purchasing Clerk
+SH_CLERK
+	Shipping Clerk
+ST_CLERK
+	Stock Clerk
+-------------------------------Question-(2)----------------------------------
+Enter Employee-id: 120
+
+Steven King	Executive
+-------------------------------Question-(3)----------------------------------
+Enter date('DD-MM-YY'): 02-03-06
+Enter Department-id: 50
+
+Martha Sullivan
+		Shipping Clerk
+Girard Geoni
+		Shipping Clerk
+Steven Markle
+		Stock Clerk
+James Landry
+		Stock Clerk
+Irene Mikkilinen
+		Stock Clerk
+Anthony Cabrio
+		Shipping Clerk
+Julia Dellinger
+		Shipping Clerk
+TJ Olson
+		Stock Clerk
+Randall Perkins
+		Shipping Clerk
+Timothy Gates
+		Shipping Clerk
+Michael Rogers
+		Stock Clerk
+Ki Gee
+		Stock Clerk
+Hazel Philtanker
+		Stock Clerk
+Samuel McCain
+		Shipping Clerk
+Vance Jones
+		Shipping Clerk
+Joshua Patel
+		Stock Clerk
+Alana Walsh
+		Shipping Clerk
+Kevin Feeney
+		Shipping Clerk
+Douglas Grant
+		Shipping Clerk
+Donald OConnell
+		Shipping Clerk
+Randall Matos
+		Stock Clerk
+Peter Vargas
+		Stock Clerk
+-------------------------------Question-(4)----------------------------------
+Enter Employee_id: 100
+Enter Job_id: AD_VP
+
+No of rows affected: 1
+-------------------------------Question-(5)----------------------------------
+
+
+The output has been written to Q5_out.txt
+-----------------------------------END---------------------------------------
